@@ -1,0 +1,11 @@
+{
+    "ignorePaths": ["node_modules", "build"],
+    "language": "en",
+    "words": [],
+    "patterns": [],
+    "ignoreRegExpList": [],
+    "ignoreWords": [],
+    "allowCompoundWords": true,
+    "enabled": true
+  }
+  
